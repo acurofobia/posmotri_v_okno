@@ -52,7 +52,7 @@ ol {
 
 .content {
   display: grid;
-  grid-template-columns: 711px 399px;
+  grid-template-columns: 710px 400px;
   align-items: end;
   gap: 30px;
   block-size: 534px;
@@ -174,7 +174,7 @@ ol {
   padding: 6px 0;
   color: #fff;
   color: #FFF;
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   font-weight: 700;
   font-size: 18px;
   font-style: normal;
@@ -227,7 +227,7 @@ ol {
 
 .title{
   color: #FFF;
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;;
   font-weight: 700;
   font-size: 75px;
   font-style: normal;
@@ -262,7 +262,7 @@ ol {
 .content__video-card-title {
   padding-bottom: 6px;
   color: #fff;
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;;
   font-weight: 700;
   font-size: 30px;
   font-style: normal;
@@ -273,7 +273,7 @@ ol {
 
 .content__video-card-description {
   color: #fff;
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
