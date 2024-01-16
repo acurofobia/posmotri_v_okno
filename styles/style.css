@@ -52,7 +52,7 @@ ol {
 
 .content {
   display: grid;
-  grid-template-columns: 710px 400px;
+  grid-template-columns: 710px 417px;
   align-items: end;
   gap: 30px;
   block-size: 534px;
@@ -245,13 +245,13 @@ ol {
   display: grid;
   gap: 30px;
   padding: 2px;
-  overflow: scroll;
+  overflow-y: auto;
   block-size: 298px;
 }
 
-.content__list-item {
+/* .content__list-item {
   overflow: visible;
-}
+} */
 
 .content__video-card {
   display: flex;
